@@ -1,2 +1,3 @@
 */venv
 elasticsearch_data/
+*/__pycache__/
