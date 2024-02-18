@@ -2,7 +2,7 @@
 
 ### ElasticSearch semantic search implementation
 
-1. SBERT model
+1. SBERT model (reference: https://www.youtube.com/watch?v=KSwPR9eig7w)
 2. GPT model
 
 ### Env setup
