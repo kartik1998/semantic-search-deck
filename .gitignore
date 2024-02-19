@@ -1,4 +1,5 @@
 */venv
+*/.env
 elasticsearch_data/
 */__pycache__/
 .idea
