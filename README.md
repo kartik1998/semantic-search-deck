@@ -3,7 +3,7 @@
 ### ElasticSearch semantic search implementation
 
 1. SBERT model (reference: https://www.youtube.com/watch?v=KSwPR9eig7w)
-2. GPT model
+2. GPT model (reference: https://www.youtube.com/watch?v=frnKiugyFRI)
 
 ### Env setup
 
@@ -24,6 +24,7 @@ pip install requirements.txt
 streamlit run search_app.py
 ```
 
-- Advanced Semantic Search with GPT model 
+- Advanced Semantic Search with GPT model
 
 ![img.png](assets/gpt-search.png)
+
