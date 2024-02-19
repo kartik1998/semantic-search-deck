@@ -23,3 +23,7 @@ docker-compose up -d
 pip install requirements.txt
 streamlit run search_app.py
 ```
+
+- Advanced Semantic Search with GPT model 
+
+![img.png](assets/gpt-search.png)
